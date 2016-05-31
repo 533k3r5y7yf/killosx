@@ -13,3 +13,4 @@ Usage:
     killOSX
     Usage - killosx -i wlan0  ~  Run exploit on wlan0
             killosx -h        ~  This help
+This software is here thanks to https://github.com/d4rkcat so thanks Him for this I only making it going foward :)
